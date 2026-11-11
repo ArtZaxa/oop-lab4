@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <RootNamespace>ClientRelationships</RootNamespace>
+    <AssemblyName>ClientRelationships.Lab4</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Update="Forms\frmMain.cs"><SubType>Form</SubType></Compile>
+    <Compile Update="Forms\frmFilter.cs"><SubType>Form</SubType></Compile>
+    <Compile Update="Forms\frmFields.cs"><SubType>Form</SubType></Compile>
+    <Compile Update="Forms\frmFirmEdit.cs"><SubType>Form</SubType></Compile>
+    <Compile Update="Forms\frmContactEdit.cs"><SubType>Form</SubType></Compile>
+
+    <Compile Update="Forms\frmMain.Designer.cs"><DependentUpon>frmMain.cs</DependentUpon></Compile>
+    <Compile Update="Forms\frmFilter.Designer.cs"><DependentUpon>frmFilter.cs</DependentUpon></Compile>
+    <Compile Update="Forms\frmFields.Designer.cs"><DependentUpon>frmFields.cs</DependentUpon></Compile>
+    <Compile Update="Forms\frmFirmEdit.Designer.cs"><DependentUpon>frmFirmEdit.cs</DependentUpon></Compile>
+    <Compile Update="Forms\frmContactEdit.Designer.cs"><DependentUpon>frmContactEdit.cs</DependentUpon></Compile>
+
+    <EmbeddedResource Update="Forms\frmMain.resx"><DependentUpon>frmMain.cs</DependentUpon></EmbeddedResource>
+    <EmbeddedResource Update="Forms\frmFilter.resx"><DependentUpon>frmFilter.cs</DependentUpon></EmbeddedResource>
+    <EmbeddedResource Update="Forms\frmFields.resx"><DependentUpon>frmFields.cs</DependentUpon></EmbeddedResource>
+    <EmbeddedResource Update="Forms\frmFirmEdit.resx"><DependentUpon>frmFirmEdit.cs</DependentUpon></EmbeddedResource>
+    <EmbeddedResource Update="Forms\frmContactEdit.resx"><DependentUpon>frmContactEdit.cs</DependentUpon></EmbeddedResource>
+  </ItemGroup>
+</Project>
