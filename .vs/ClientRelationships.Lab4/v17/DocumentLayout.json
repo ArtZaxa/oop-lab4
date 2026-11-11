@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|c:\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\oop-lab4-gpt\\clientrelationships.lab4\\fields\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|solutionrelative:clientrelationships.lab4\\fields\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|c:\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\oop-lab4-gpt\\clientrelationships.lab4\\controllers\\maincontr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|solutionrelative:clientrelationships.lab4\\controllers\\maincontr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|c:\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\oop-lab4-gpt\\clientrelationships.lab4\\domain\\conttypecol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|solutionrelative:clientrelationships.lab4\\domain\\conttypecol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|c:\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\oop-lab4-gpt\\clientrelationships.lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|solutionrelative:clientrelationships.lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A5B2F8-A4F3-4D20-BE6C-86D4D2F12A3B}|ClientRelationships.Lab4.Tests\\ClientRelationships.Lab4.Tests.csproj|c:\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\oop-lab4-gpt\\clientrelationships.lab4.tests\\filtering\\filterarchitecturetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A5B2F8-A4F3-4D20-BE6C-86D4D2F12A3B}|ClientRelationships.Lab4.Tests\\ClientRelationships.Lab4.Tests.csproj|solutionrelative:clientrelationships.lab4.tests\\filtering\\filterarchitecturetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A5B2F8-A4F3-4D20-BE6C-86D4D2F12A3B}|ClientRelationships.Lab4.Tests\\ClientRelationships.Lab4.Tests.csproj|c:\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\oop-lab4-gpt\\clientrelationships.lab4.tests\\ui\\firmuitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A5B2F8-A4F3-4D20-BE6C-86D4D2F12A3B}|ClientRelationships.Lab4.Tests\\ClientRelationships.Lab4.Tests.csproj|solutionrelative:clientrelationships.lab4.tests\\ui\\firmuitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A5B2F8-A4F3-4D20-BE6C-86D4D2F12A3B}|ClientRelationships.Lab4.Tests\\ClientRelationships.Lab4.Tests.csproj|c:\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\oop-lab4-gpt\\clientrelationships.lab4.tests\\clientrelationships.lab4.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1A5B2F8-A4F3-4D20-BE6C-86D4D2F12A3B}|ClientRelationships.Lab4.Tests\\ClientRelationships.Lab4.Tests.csproj|solutionrelative:clientrelationships.lab4.tests\\clientrelationships.lab4.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\clientrelationships.lab4\\forms\\frmcontactedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|solutionrelative:clientrelationships.lab4\\forms\\frmcontactedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|c:\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\oop-lab4-gpt\\clientrelationships.lab4\\forms\\frmcontactedit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|solutionrelative:clientrelationships.lab4\\forms\\frmcontactedit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\clientrelationships.lab4\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|solutionrelative:clientrelationships.lab4\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\clientrelationships.lab4\\forms\\frmfirmedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|solutionrelative:clientrelationships.lab4\\forms\\frmfirmedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\clientrelationships.lab4\\forms\\frmfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|solutionrelative:clientrelationships.lab4\\forms\\frmfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\clientrelationships.lab4\\forms\\frmfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|solutionrelative:clientrelationships.lab4\\forms\\frmfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|c:\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\oop-lab4-gpt\\clientrelationships.lab4\\filtering\\filtercondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|solutionrelative:clientrelationships.lab4\\filtering\\filtercondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|c:\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\oop-lab4-gpt\\clientrelationships.lab4\\filtering\\filterrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|solutionrelative:clientrelationships.lab4\\filtering\\filterrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|c:\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\oop-lab4-gpt\\clientrelationships.lab4\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|solutionrelative:clientrelationships.lab4\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|c:\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\oop-lab4-gpt\\clientrelationships.lab4\\expressions\\logexpfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|solutionrelative:clientrelationships.lab4\\expressions\\logexpfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|c:\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\oop-lab4-gpt\\clientrelationships.lab4\\expressions\\logexpenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|solutionrelative:clientrelationships.lab4\\expressions\\logexpenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|c:\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\oop-lab4-gpt\\clientrelationships.lab4\\expressions\\intfieldexpr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|solutionrelative:clientrelationships.lab4\\expressions\\intfieldexpr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|c:\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\oop-lab4-gpt\\clientrelationships.lab4\\expressions\\ilogexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|solutionrelative:clientrelationships.lab4\\expressions\\ilogexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|c:\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\oop-lab4-gpt\\clientrelationships.lab4\\filtering\\datefieldrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|solutionrelative:clientrelationships.lab4\\filtering\\datefieldrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|c:\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\oop-lab4-gpt\\clientrelationships.lab4\\controllers\\filtercontr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A66B0D8-3D14-4B12-87A5-2A11D06A42B1}|ClientRelationships.Lab4\\ClientRelationships.Lab4.csproj|solutionrelative:clientrelationships.lab4\\controllers\\filtercontr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContTypeCol.cs",
+              "DocumentMoniker": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Domain\\ContTypeCol.cs",
+              "RelativeDocumentMoniker": "ClientRelationships.Lab4\\Domain\\ContTypeCol.cs",
+              "ToolTip": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Domain\\ContTypeCol.cs",
+              "RelativeToolTip": "ClientRelationships.Lab4\\Domain\\ContTypeCol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:53:12.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FirmUiTests.cs",
+              "DocumentMoniker": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4.Tests\\UI\\FirmUiTests.cs",
+              "RelativeDocumentMoniker": "ClientRelationships.Lab4.Tests\\UI\\FirmUiTests.cs",
+              "ToolTip": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4.Tests\\UI\\FirmUiTests.cs",
+              "RelativeToolTip": "ClientRelationships.Lab4.Tests\\UI\\FirmUiTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:50:00.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilterArchitectureTests.cs",
+              "DocumentMoniker": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4.Tests\\Filtering\\FilterArchitectureTests.cs",
+              "RelativeDocumentMoniker": "ClientRelationships.Lab4.Tests\\Filtering\\FilterArchitectureTests.cs",
+              "ToolTip": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4.Tests\\Filtering\\FilterArchitectureTests.cs",
+              "RelativeToolTip": "ClientRelationships.Lab4.Tests\\Filtering\\FilterArchitectureTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:49:50.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmContactEdit.Designer.cs",
+              "DocumentMoniker": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Forms\\frmContactEdit.Designer.cs",
+              "RelativeDocumentMoniker": "ClientRelationships.Lab4\\Forms\\frmContactEdit.Designer.cs",
+              "ToolTip": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Forms\\frmContactEdit.Designer.cs",
+              "RelativeToolTip": "ClientRelationships.Lab4\\Forms\\frmContactEdit.Designer.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAApwLkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:42:52.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Forms\\frmMain.cs",
+              "RelativeDocumentMoniker": "ClientRelationships.Lab4\\Forms\\frmMain.cs",
+              "ToolTip": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Forms\\frmMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ClientRelationships.Lab4\\Forms\\frmMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:34:26.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmFirmEdit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Forms\\frmFirmEdit.cs",
+              "RelativeDocumentMoniker": "ClientRelationships.Lab4\\Forms\\frmFirmEdit.cs",
+              "ToolTip": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Forms\\frmFirmEdit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ClientRelationships.Lab4\\Forms\\frmFirmEdit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:34:18.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmFilter.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Forms\\frmFilter.cs",
+              "RelativeDocumentMoniker": "ClientRelationships.Lab4\\Forms\\frmFilter.cs",
+              "ToolTip": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Forms\\frmFilter.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ClientRelationships.Lab4\\Forms\\frmFilter.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:34:13.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmFields.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Forms\\frmFields.cs",
+              "RelativeDocumentMoniker": "ClientRelationships.Lab4\\Forms\\frmFields.cs",
+              "ToolTip": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Forms\\frmFields.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ClientRelationships.Lab4\\Forms\\frmFields.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:34:09.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmContactEdit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Forms\\frmContactEdit.cs",
+              "RelativeDocumentMoniker": "ClientRelationships.Lab4\\Forms\\frmContactEdit.cs",
+              "ToolTip": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Forms\\frmContactEdit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ClientRelationships.Lab4\\Forms\\frmContactEdit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:29:20.103Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Fields\\Field.cs",
+              "RelativeDocumentMoniker": "ClientRelationships.Lab4\\Fields\\Field.cs",
+              "ToolTip": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Fields\\Field.cs",
+              "RelativeToolTip": "ClientRelationships.Lab4\\Fields\\Field.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAawC8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:17:15.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Program.cs",
+              "RelativeDocumentMoniker": "ClientRelationships.Lab4\\Program.cs",
+              "ToolTip": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Program.cs",
+              "RelativeToolTip": "ClientRelationships.Lab4\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:09:41.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientRelationships.Lab4.Tests.csproj",
+              "DocumentMoniker": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4.Tests\\ClientRelationships.Lab4.Tests.csproj",
+              "RelativeDocumentMoniker": "ClientRelationships.Lab4.Tests\\ClientRelationships.Lab4.Tests.csproj",
+              "ToolTip": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4.Tests\\ClientRelationships.Lab4.Tests.csproj",
+              "RelativeToolTip": "ClientRelationships.Lab4.Tests\\ClientRelationships.Lab4.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-11T01:09:34.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Domain\\Contact.cs",
+              "RelativeDocumentMoniker": "ClientRelationships.Lab4\\Domain\\Contact.cs",
+              "ToolTip": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Domain\\Contact.cs",
+              "RelativeToolTip": "ClientRelationships.Lab4\\Domain\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:08:08.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LogExpFactory.cs",
+              "DocumentMoniker": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Expressions\\LogExpFactory.cs",
+              "RelativeDocumentMoniker": "ClientRelationships.Lab4\\Expressions\\LogExpFactory.cs",
+              "ToolTip": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Expressions\\LogExpFactory.cs",
+              "RelativeToolTip": "ClientRelationships.Lab4\\Expressions\\LogExpFactory.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:03:35.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LogExpEnum.cs",
+              "DocumentMoniker": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Expressions\\LogExpEnum.cs",
+              "RelativeDocumentMoniker": "ClientRelationships.Lab4\\Expressions\\LogExpEnum.cs",
+              "ToolTip": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Expressions\\LogExpEnum.cs",
+              "RelativeToolTip": "ClientRelationships.Lab4\\Expressions\\LogExpEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:02:57.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IntFieldExpr.cs",
+              "DocumentMoniker": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Expressions\\IntFieldExpr.cs",
+              "RelativeDocumentMoniker": "ClientRelationships.Lab4\\Expressions\\IntFieldExpr.cs",
+              "ToolTip": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Expressions\\IntFieldExpr.cs",
+              "RelativeToolTip": "ClientRelationships.Lab4\\Expressions\\IntFieldExpr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:02:56.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ILogExp.cs",
+              "DocumentMoniker": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Expressions\\ILogExp.cs",
+              "RelativeDocumentMoniker": "ClientRelationships.Lab4\\Expressions\\ILogExp.cs",
+              "ToolTip": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Expressions\\ILogExp.cs",
+              "RelativeToolTip": "ClientRelationships.Lab4\\Expressions\\ILogExp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:02:51.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FilterCondition.cs",
+              "DocumentMoniker": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Filtering\\FilterCondition.cs",
+              "RelativeDocumentMoniker": "ClientRelationships.Lab4\\Filtering\\FilterCondition.cs",
+              "ToolTip": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Filtering\\FilterCondition.cs",
+              "RelativeToolTip": "ClientRelationships.Lab4\\Filtering\\FilterCondition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:52:12.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FilterRule.cs",
+              "DocumentMoniker": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Filtering\\FilterRule.cs",
+              "RelativeDocumentMoniker": "ClientRelationships.Lab4\\Filtering\\FilterRule.cs",
+              "ToolTip": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Filtering\\FilterRule.cs",
+              "RelativeToolTip": "ClientRelationships.Lab4\\Filtering\\FilterRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:52:03.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DateFieldRule.cs",
+              "DocumentMoniker": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Filtering\\DateFieldRule.cs",
+              "RelativeDocumentMoniker": "ClientRelationships.Lab4\\Filtering\\DateFieldRule.cs",
+              "ToolTip": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Filtering\\DateFieldRule.cs",
+              "RelativeToolTip": "ClientRelationships.Lab4\\Filtering\\DateFieldRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:52:00.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FilterContr.cs",
+              "DocumentMoniker": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Controllers\\FilterContr.cs",
+              "RelativeDocumentMoniker": "ClientRelationships.Lab4\\Controllers\\FilterContr.cs",
+              "ToolTip": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Controllers\\FilterContr.cs",
+              "RelativeToolTip": "ClientRelationships.Lab4\\Controllers\\FilterContr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:39:14.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainContr.cs",
+              "DocumentMoniker": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Controllers\\MainContr.cs",
+              "RelativeDocumentMoniker": "ClientRelationships.Lab4\\Controllers\\MainContr.cs",
+              "ToolTip": "C:\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445 2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\oop-lab4-gpt\\ClientRelationships.Lab4\\Controllers\\MainContr.cs",
+              "RelativeToolTip": "ClientRelationships.Lab4\\Controllers\\MainContr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:38:53.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

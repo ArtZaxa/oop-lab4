@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Forms\frmContactEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmFields.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmFilter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmFirmEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
